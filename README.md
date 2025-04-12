@@ -12,7 +12,7 @@
 </h3>
 
 <h5 align="center">
-   A cyberpunk-inspired honeypot environment designed to simulate common network attacks and log intruder behavior for analysis.
+   A cyberpunk-inspired honeypot environment designed <br> to simulate common network attacks and log intruder behavior for analysis.
 </h5>
 
 ---
