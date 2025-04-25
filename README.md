@@ -1,4 +1,4 @@
-![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
+![DecryptMike Honeypot Sim](https://github.com/user-attachments/assets/9310aef4-133b-4604-8493-d2924a4e62af)![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
 ![Last Commit](https://img.shields.io/github/last-commit/DecryptMike/DecryptMike-Password-Manager)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Made With](https://img.shields.io/badge/Made%20with-Cryptography-green?logo=python)
@@ -36,6 +36,14 @@ This honeypot simulates fake services (SSH, FTP, HTTP) to attract and monitor ma
 - 🎨 **Matrix-style terminal alerts (with Colorama)**
 - 💾 **Persistent log output to `logs/honeypot.log`**
 - 🔧 **Modular architecture (alerts, logger, services)**
+
+---
+
+## 📸 Screenshot
+
+<p align="center">
+  <img src="DecryptMike Honeypot Sim.png" width="100%" alt="Sign In Page">
+</p>
 
 ---
 
