@@ -1,4 +1,4 @@
-![DecryptMike Honeypot Sim](https://github.com/user-attachments/assets/9310aef4-133b-4604-8493-d2924a4e62af)![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
 ![Last Commit](https://img.shields.io/github/last-commit/DecryptMike/DecryptMike-Password-Manager)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Made With](https://img.shields.io/badge/Made%20with-Cryptography-green?logo=python)
