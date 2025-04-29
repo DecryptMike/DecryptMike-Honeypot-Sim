@@ -1,12 +1,9 @@
-![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
-![Last Commit](https://img.shields.io/github/last-commit/DecryptMike/DecryptMike-Password-Manager)
-![Made With](https://img.shields.io/badge/Made%20with-Cryptography-green?logo=python)
-![🧠 Simulates](https://img.shields.io/badge/🧠-Simulates-grey?style=flat-square)
-![🎯 Attacks](https://img.shields.io/badge/🎯-Attacks-orange?style=flat-square)
-![🎭 Deception](https://img.shields.io/badge/🎭-Deception-purple?style=flat-square)
-![🪤 Honeypot](https://img.shields.io/badge/🪤-Honeypot-brown?style=flat-square)
-![🚨 Active](https://img.shields.io/badge/🚨-Active-red?style=flat-square)
-![🕸️ Network](https://img.shields.io/badge/🕸️-Network-grey?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=flat&logo=python&logoColor=white&labelColor=3f3f46)
+![Made with](https://img.shields.io/badge/Made%20with-Cryptography-84cc16?style=flat&logo=python&labelColor=3f3f46)
+![Simulates](https://img.shields.io/badge/Simulates-Attacks-f97316?style=flat&logo=airplayaudio&labelColor=3f3f46)
+![Deception](https://img.shields.io/badge/Deception-Traps-a21caf?style=flat&logo=protonvpn&labelColor=3f3f46)
+![Honeypot](https://img.shields.io/badge/Honeypot-Active-ef4444?style=flat&logo=firefox&labelColor=3f3f46)
+![Network](https://img.shields.io/badge/Network-Snare-737373?style=flat&logo=protocols&labelColor=3f3f46)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
 <p align="center">
