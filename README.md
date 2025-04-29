@@ -1,6 +1,5 @@
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
 ![Last Commit](https://img.shields.io/github/last-commit/DecryptMike/DecryptMike-Password-Manager)
-![License](https://img.shields.io/badge/license-MIT-green)
 ![Made With](https://img.shields.io/badge/Made%20with-Cryptography-green?logo=python)
 ![🧠 Simulates](https://img.shields.io/badge/🧠-Simulates-grey?style=flat-square)
 ![🎯 Attacks](https://img.shields.io/badge/🎯-Attacks-orange?style=flat-square)
@@ -8,6 +7,7 @@
 ![🪤 Honeypot](https://img.shields.io/badge/🪤-Honeypot-brown?style=flat-square)
 ![🚨 Active](https://img.shields.io/badge/🚨-Active-red?style=flat-square)
 ![🕸️ Network](https://img.shields.io/badge/🕸️-Network-grey?style=flat-square)
+![License](https://img.shields.io/badge/license-MIT-green)
 
 <p align="center">
   <img src="DecryptMikeLogo.png" alt="DecryptMike Logo" style="max-width: 100%; height: auto;"/>
